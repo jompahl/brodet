@@ -71,7 +71,7 @@ export default function Home() {
           </div>
           <div className="image" onClick={() => handleClick("Oggebomben")}>
             <img
-              src="/images/oggebomben.jpg"
+              src="/images/Oggebomben.jpg"
               style={{ objectPosition: "top" }}
             ></img>
             <div className="image__overlay">
