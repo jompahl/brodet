@@ -16,10 +16,10 @@ export default function SocialFollow() {
       style={{
         display: "flex",
         flexDirection: "row",
-        alignItems: "center",
         paddingTop: "20px",
         paddingBottom: "20px",
         width: "30%",
+        justifyContent: "space-evenly",
       }}
     >
       <a target="_blank" href="https://www.facebook.com/john.dahlberg/">
