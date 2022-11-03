@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Navbar from "../components/navbar";
+import SocialFollow from "../components/socialFollow";
 
 export default function Home() {
   function handleClick(brodet) {
@@ -80,7 +81,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="footer">johndahlberg@hotmail.com</div>
+        <SocialFollow></SocialFollow>
       </div>
     </div>
   );

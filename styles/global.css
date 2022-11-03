@@ -25,6 +25,12 @@ body {
   border-top: 2px;
 }
 
+.icons {
+  height: 60px;
+  width: 60px;
+  margin-right: 10px;
+}
+
 * {
   box-sizing: border-box;
 }
